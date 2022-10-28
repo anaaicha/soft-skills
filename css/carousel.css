@@ -1,10 +1,9 @@
 body{
-    text-align: center;
     background-color: beige;
 }
 
 img{
-    width: 10%;
+    width: 20%;
 }
 /*
 .imagem-cerebro{
@@ -17,12 +16,7 @@ img{
 */
 
 .section-inicio{
-    padding-top: 15%;
-}
-
-.section-inicio-text{
-    padding-top: 10%;
-    padding: 10% 25% 10% 25%;
+    padding-top: 5%;
 }
 
 .carrossel-story{
@@ -30,11 +24,12 @@ img{
 }
 
 .cardCarousel{
-    padding: 15% 15% 5% 15%;
+    padding: 8% 15% 5% 15%;
 }
 
 .img-fluid{
     width: 70%;
+    padding: 3% 0%;
 }
 
 .card-text{
